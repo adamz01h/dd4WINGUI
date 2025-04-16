@@ -1,0 +1,43 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\bin\Debug\dd4WINGUI.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\bin\Debug\dd4WINGUI.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\bin\Debug\dd4WINGUI.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\dd4WINGUI\obj\Debug\dd4WINGUI.pdb
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Resources.resources
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.GenerateResource.Cache
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.exe
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.xml
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.pdb
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\dd4WINGUI.exe
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\dd4WINGUI.pdb
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\dd4WINGUI.xml
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\ResolveAssemblyReference.cache
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Form1.resources
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Resources.resources
+P:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.GenerateResource.Cache
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Main.resources
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.exe.config
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.exe
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.pdb
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.xml
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.exe
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.xml
+D:\Google Drive\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.pdb
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.exe.config
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.exe
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.pdb
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\bin\Debug\Simple Disk Dump.xml
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.AssemblyReference.cache
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Main.resources
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.Resources.resources
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.GenerateResource.cache
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\dd4WINGUI.vbproj.CoreCompileInputs.cache
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.exe
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.xml
+C:\Repos\dd4win\dd4WINGUI\dd4WINGUI\obj\Debug\Simple Disk Dump.pdb
